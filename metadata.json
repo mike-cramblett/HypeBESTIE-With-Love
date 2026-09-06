@@ -1,0 +1,8 @@
+{
+  "name": "HypeBESTIE With Love",
+  "description": "HypeBESTIE, the Sincere Image Compliment Generator, Powered by Gemini 3.8 and Love",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
